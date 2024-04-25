@@ -18,9 +18,11 @@ Overfitting: Initially, the model exhibited signs of overfitting, as indicated b
 # Solution
 Reduced Epochs: By reducing the number of training epochs from the initial value, the overfitting problem was mitigated. This led to improved model generalization performance, as evidenced by decreasing loss and increasing accuracy on both training and validation sets.
 
-
+** The Accuracy of the training data increases **
 <img src="breast cancer/Screenshot 2024-04-25 at 10.27.32.png" alt="Model Accuracy Graph">
 
+** The loss value of the training data decrease **
+<img src="breast cancer/Screenshot 2024-04-25 at 10.45.58.png" alt="Model Accuracy Graph">
 
 
 # Results
