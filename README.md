@@ -30,6 +30,7 @@ Model Accuracy: The trained model achieved a high accuracy score of 99.5% on the
 
 # Recommendation
 Hyperparameter Tuning: Further optimization of hyperparameters such as learning rate, batch size, and network architecture could potentially enhance the model's performance.
+
 Data Augmentation: Augmenting the dataset with additional samples or applying techniques like data augmentation may help improve model robustness and generalization.
 
 
